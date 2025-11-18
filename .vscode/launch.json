@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Run AutheniqApplication",
+      "request": "launch",
+      "mainClass": "com.autheniq.AutheniqApplication",
+      "projectName": "backend"
+    },
+    {
+      "type": "java",
+      "name": "Debug AutheniqApplication",
+      "request": "launch",
+      "mainClass": "com.autheniq.AutheniqApplication",
+      "projectName": "backend",
+      "console": "integratedTerminal"
+    }
+  ]
+}

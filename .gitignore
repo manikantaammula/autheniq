@@ -1,0 +1,45 @@
+### Java ###
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.war
+*.ear
+
+### Maven ###
+/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### VS Code ###
+.vscode/**
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### Eclipse ###
+.settings/
+bin/
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+*.log
+
+### Other ###
+node_modules/
+env/
+env.bak/
+*.env

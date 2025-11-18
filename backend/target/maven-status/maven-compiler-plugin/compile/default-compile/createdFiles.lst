@@ -1,0 +1,8 @@
+com\autheniq\repository\ProductRepository.class
+com\autheniq\service\ProductService.class
+com\autheniq\model\ScanEvent.class
+com\autheniq\repository\ScanRepository.class
+com\autheniq\AutheniqApplication.class
+com\autheniq\model\Product.class
+com\autheniq\controller\ProductController.class
+com\autheniq\util\QRGenerator.class
