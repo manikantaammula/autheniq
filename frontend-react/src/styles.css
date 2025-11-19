@@ -1,0 +1,7 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; }
+.app { padding: 16px; }
+nav { margin-bottom: 12px }
+form { max-width: 420px; }
+label { display:block; margin-top:8px }
+input, button { padding:8px; margin-top:4px; width:100%; box-sizing:border-box }
+.product { border:1px solid #ddd; padding:8px; margin-top:8px }
